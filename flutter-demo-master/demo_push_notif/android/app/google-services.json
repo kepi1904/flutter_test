@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157807255025",
+    "project_id": "fir-notif-57626",
+    "storage_bucket": "fir-notif-57626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157807255025:android:5c2f4b957a8a4df2813850",
+        "android_client_info": {
+          "package_name": "com.example.demo_push_notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157807255025-nei9sqj991bu52b3c61bvovdccfam2cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6T1XtKl9_Upy2tcWyBAZp1CJNk-_Vwbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157807255025-nei9sqj991bu52b3c61bvovdccfam2cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
